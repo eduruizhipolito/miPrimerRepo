@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2yCsRjINXPk=",
+  "dgSpecHash": "rdRZ049hCdI=",
   "success": true,
-  "projectFilePath": "/workspaces/miPrimerRepo/proyecto1/probando/probando.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\eduar\\OneDrive\\miPrimerProyecto\\miPrimerRepo\\proyecto1\\probando\\probando.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.14\\microsoft.netcore.app.host.win-x64.8.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
