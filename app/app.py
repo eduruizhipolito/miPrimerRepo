@@ -1,3 +1,3 @@
-from tercerRepo import saludo
+from tercerRepo import saludar
 
-print(saludo("To the moon!"))
+print(saludar("To the moon!"))
